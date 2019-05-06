@@ -31,5 +31,5 @@ def find_no_of_happy_num(number1):
 
 
 if __name__ == '__main__':
-    num = int(input('Enter a number to find whether it is happy or not!\n'))
+    num = int(input('How many happy numbers do you want?\n'))
     find_no_of_happy_num(num)

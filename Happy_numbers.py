@@ -1,3 +1,5 @@
+### This code is to find happy numbers###
+
 def check_happy_num(n):
     list_to_avoid_loop = []
     sum1 = sum_of_digits(n)
